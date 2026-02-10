@@ -22,5 +22,10 @@ public enum Currencies {
         currencies.add(EUR.getCode());
         currencies.add(CNY.getCode());
         return currencies;
+
+        // тест пр 2
+        // тест пр 2
+        // тест пр 2
+        // тест пр 2
     }
 }
