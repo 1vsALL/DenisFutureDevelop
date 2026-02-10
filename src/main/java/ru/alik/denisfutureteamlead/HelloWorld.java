@@ -10,6 +10,11 @@ public class HelloWorld {
         List<String> list = Currencies.getCurrencies();
         System.out.println(list);
         // первый ПР
+        // первый ПР
+        // первый ПР
+        // первый ПР
+        // первый ПР
+        // первый ПР
     }
 
 }
