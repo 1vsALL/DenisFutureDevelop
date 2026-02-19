@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Welcome to IT");
         //когда таска закроется?
         String string = new String();
+        final int s;
     }
 }
